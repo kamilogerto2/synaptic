@@ -25,6 +25,7 @@ If you have no prior knowledge about Neural Networks, you should start by [readi
 - [Paint an Image](http://synaptic.juancazala.com/#/paint-an-image)
 - [Self Organizing Map](http://synaptic.juancazala.com/#/self-organizing-map)
 - [Read from Wikipedia](http://synaptic.juancazala.com/#/wikipedia)
+- [Simple usage of Hopfield Network to auto-correct words](https://xsolve.software/blog/how-to-start-a-neural-network-with-javascript-in-5-minutes/)
 
 The source code of these demos can be found in [this branch](https://github.com/cazala/synaptic/tree/gh-pages/scripts).
 
